@@ -1,0 +1,108 @@
+<resources>
+    <!-- Other string resources-->
+    <string name="app_name">Github User</string>
+    <string-array name="username">
+        <item>rezananda</item>
+        <item>ibnuhsb</item>
+        <item>muhammadmalik</item>
+        <item>budiutomo</item>
+        <item>tonoapril</item>
+        <item>nisaalfa</item>
+        <item>nayayana</item>
+        <item>anggunpramana</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Reza Nanda</item>
+        <item>Ibnu Hsb</item>
+        <item>Muhammad Malik</item>
+        <item>Budi Utomo</item>
+        <item>Tono April</item>
+        <item>Nisa Alfa</item>
+        <item>Naya Yana</item>
+        <item>Anggun Pramana</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Medan, Sumut, IDN</item>
+        <item>Jakarta, IDN</item>
+        <item>Medan</item>
+        <item>Bandung, IDN</item>
+        <item>Makasar, IDN</item>
+        <item>Medan</item>
+        <item>Medan, Sumut, Indonesia</item>
+        <item>Bali, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Google, inc.</item>
+        <item>Gojek</item>
+        <item>Shopee</item>
+        <item>Lazada</item>
+        <item>Stockbit</item>
+        <item>Google</item>
+        <item>grab</item>
+        <item>Drivein</item>
+        <item>Tokopedia</item>
+        <item>Facebook</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+</resources>
